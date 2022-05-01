@@ -1,0 +1,2 @@
+D:\opp_projeler\operator_overloading\Debug\operator_overloading.exe
+D:\opp_projeler\operator_overloading\Debug\operator_overloading.pdb
